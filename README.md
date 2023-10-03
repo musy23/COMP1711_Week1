@@ -1,2 +1,3 @@
 # COMP1711_Week1
-Procedural Programming 
+Procedural Programming Week 1
+
