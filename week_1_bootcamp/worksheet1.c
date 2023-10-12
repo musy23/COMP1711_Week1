@@ -3,7 +3,14 @@
 
 int main()
 {
-    integer = 2147483647
-    printf("The maximum size of the integer data type is= integer");
+    int number1, number2;
+    printf("Enter two numbers" );
+    scanf("%d %d", &number1, &number2);
+qq
+    int number3 = number1 + number2
+    printf("The sum is= %d\n", number3)
+
     return 0;
+
+
 }   
